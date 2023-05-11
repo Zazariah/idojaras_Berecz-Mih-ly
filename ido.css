@@ -70,3 +70,10 @@ h2{
 	text-transform: uppercase;
 }
 
+.szurke{
+	font-size: small;
+	text-align: center;
+	color:#808183 ;
+	font-weight: bold;
+	text-decoration-line: none;
+}
