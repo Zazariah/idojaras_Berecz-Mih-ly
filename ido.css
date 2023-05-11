@@ -64,3 +64,9 @@ h2{
 	color: #243f84;
 	text-transform: uppercase;
 }
+
+table, tr, td{
+margin: auto;
+text-align: center;
+padding: 0;
+}
